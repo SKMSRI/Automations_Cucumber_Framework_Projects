@@ -1,4 +1,4 @@
-package com.automationdummyprojects.curaHealthservices.pages;
+package com.automationdummyprojects;
 
 public class MakeAppointment {
 
